@@ -1,0 +1,82 @@
+[
+    {
+        "id": "641fd29ff99d7221bce0596a",
+        "_id":"10",
+        "title": "The business Intelligence analyst Course 2022",
+        "picture": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+       
+        "rating": {
+          "number": 4.5,
+          "badge": "Excillent"
+        },
+        "total_view": "1234",
+        "details": "We should pause for a moment to clarify the differences between a front end developer, back end developer, and full stack developer. Let’s put this in simple terms: a front end developer is responsible for the parts of an app or website that users see and interact with. A back end developer takes care of the “behind the scenes” matters such as infrastructure and databases. The full-stack developer is a mixture of both, a jack of all trades that can handle the whole design process from the beginning to the end.",
+        "author": {
+          "name": "Manik Chandra",
+          "published_date": "05/03/2020",
+          "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+        }
+       
+      },
+      {
+        "id": "641fd29f6d6701fad1a53497",
+        "_id": "04",
+        "title": "MEAN Stack Master's Program will teach you about the front and back-end JavaScript technologies",
+        "balance": "$3,936.13",
+        "picture": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+        "rating": {
+          "number": 4.5,
+          "badge": "Good"
+        },
+        "total_view": "1234",
+        "details": "back end developer, and full stack developer. Let’s put this in simple terms: a front end developer is responsible for the parts of an app or website that users see and interact with. A back end developer takes care of the “behind the scenes” matters such as infrastructure and databases. The full-stack developer is a mixture of both, a jack of all trades that can handle the whole design process from the beginning to the end.",
+        "author": {
+          "name": "Nadia Sakh",
+          "published_date": "08/12/2019",
+          "img": "https://images.unsplash.com/photo-1664575602554-2087b04935a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        }
+   
+      },
+      {
+        "id": "641fd29feb089a09f80351df",
+        "_id":"02",
+        "title": "The Power of Podcast for Storytelling",
+        "picture": "https://images.unsplash.com/photo-1585980243496-fe29a36bd382?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1249&q=80",
+   
+        "rating": {
+          "number": 4.5,
+          "badge": "Excillent"
+        },
+        "total_view": "2342",
+        "details": "back end developer, and full stack developer. Let’s put this in simple terms: a front end developer is responsible for the parts of an app or website that users see and interact with. A back end developer takes care of the “behind the scenes” matters such as infrastructure and databases. The full-stack developer is a mixture of both, a jack of all trades that can handle the whole design process from the beginning to the end.",
+        "author": {
+          "name": "Nadia Sakh",
+          "published_date": "08/12/2019",
+          "img": "https://images.unsplash.com/photo-1664575602554-2087b04935a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        }
+     
+      },
+      {
+        "id": "641fd29fdc203588c847bd55",
+        "_id":"05",
+        "title": "The Power of Podcast for Storytelling",
+        "balance": "$2,997.44",
+        "picture": "https://images.unsplash.com/photo-1585980243496-fe29a36bd382?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1249&q=80",
+        "lessons": {
+          "name": "Lessons",
+          "number": "34"
+        },
+        "rating": {
+          "number": 4.5,
+          "badge": "Excillent"
+        },
+        "total_view": "2322",
+        "details": "This Data Science course, in collaboration with IBM, accelerates your career in Data Science and provides you with the world-class training and skills required to become successful in this field. This course offers extensive training on the most in-demand Data Science and Machine Learning skills with hands-on exposure to key tools and technologies, including Python, R, Tableau, and concepts of Machine Learning. Become a Data Scientist by diving deep into the nuances of data interpretation, mastering technologies like Machine Learning, and mastering powerful programming skills to take your career in Data Science to the next level.",
+        "author": {
+          "name": "keen jim",
+          "published_date": "08/09/2020",
+          "img": "https://images.unsplash.com/photo-1664575600850-c4b712e6e2bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        },
+        "cost": "paid"
+      }
+]
