@@ -23,11 +23,13 @@ app.get('/courses/:_id',(req,res)=>{
       res.send(catagoryCourses)
   }
 })
+
 app.get('/courses/:id',(req,res)=>{
   const id = req.params.id;
-  const allCourses = courses.find( c=> c.id===id)
+  const allCourses = courses.find( a=>a.id === id)
   res.send(allCourses)
 })
+
 app.get('/data',(req,res)=>{
     res.send(data)
 })
